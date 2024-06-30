@@ -1,0 +1,24 @@
+
+
+
+
+
+  
+
+
+
+
+  
+  /* Responsive Styles */
+  @media screen and (max-width: 768px) {
+    header {
+        font-size: 18px; /* Adjust font size for smaller screens */
+      }
+      .card {
+        width: 80%; /* Adjust card width for smaller screens */
+      }
+    footer {
+      font-size: 14px; /* Adjust font size for smaller screens */
+    }
+  }
+      
